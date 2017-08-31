@@ -1,4 +1,4 @@
-package com.cefalo.asta;
+package com.cefalo.asta.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

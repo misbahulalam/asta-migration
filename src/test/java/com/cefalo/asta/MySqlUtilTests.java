@@ -1,5 +1,6 @@
 package com.cefalo.asta;
 
+import com.cefalo.asta.util.MySqlUtil;
 import org.junit.Test;
 
 import java.sql.Connection;
